@@ -1,0 +1,30 @@
+.text{
+    background-color: #a5e126;
+    color: #fff;
+    border: 5px;
+    padding: 5px;
+    width: 200px;
+}
+.navbar-nav{
+    font-weight: 600;
+}
+.nav-link:hover{
+    background-color: #a5e126;   
+}
+.content h1{
+    font-weight: 800px;
+    margin: 0px
+}
+.btn{
+    background-color: #000000;
+    color: #ffffff;
+    width: 420px;
+}
+.btn:hover{
+    background-color: #f55700;
+}
+.last{
+    margin-top: 150px;
+    background-color: #a5e126;
+    padding: 50px;
+}
